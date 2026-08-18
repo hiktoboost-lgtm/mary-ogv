@@ -1,14 +1,14 @@
 :root {
-  --bg: #F7EFEA;
-  --ink: #3D2620;
-  --ink-70: rgba(61,38,32,0.72);
-  --ink-55: rgba(61,38,32,0.55);
-  --surface-dark: #2B1B1D;
-  --paper: #F3E7DE;
-  --paper-70: rgba(243,231,222,0.72);
-  --accent: #AD5570;
-  --line: rgba(61,38,32,0.14);
-  --line-dark: rgba(243,231,222,0.16);
+  --bg: #FBEEE3;
+  --ink: #4A2018;
+  --ink-70: rgba(74,32,24,0.74);
+  --ink-55: rgba(74,32,24,0.56);
+  --surface-dark: #57101F;
+  --paper: #FBEAD9;
+  --paper-70: rgba(251,234,217,0.76);
+  --accent: #D6336C;
+  --line: rgba(74,32,24,0.16);
+  --line-dark: rgba(251,234,217,0.2);
 
   --font-display: "Fraunces", Georgia, "Times New Roman", serif;
   --font-body: "Manrope", -apple-system, "Segoe UI", sans-serif;
