@@ -1,7 +1,7 @@
-const sections = document.querySelectorAll(".hero, .about, .who, .inside, .bridge, .footer");
+const sections = document.querySelectorAll(".hero, .voice, .who, .inside, .bridge, .footer");
 
 const stepDelays = () => {
-  document.querySelectorAll(".who__item, .facts li, .inside__row").forEach((el, i) => {
+  document.querySelectorAll(".inside__row").forEach((el, i) => {
     el.style.setProperty("--d", `${i * 90}ms`);
   });
 };
